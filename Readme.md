@@ -6,7 +6,7 @@ Data directly taken from [UEC Website News List](https://uec.gov.mm/news_list.ph
 
 ---
 ## Explanation
-The crawled announcements are available as image format in `uec-archives` folder.
+The crawled announcements are available as image format in `archives` folder.
 
 Feel free to fix bugs/add announcements if they are needed.
 
